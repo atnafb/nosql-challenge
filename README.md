@@ -1,4 +1,4 @@
-# NoSQL Challenge: UK Food Standards Analysis
+# UK Food Standards Analysis
 
 ## Project Overview
 
